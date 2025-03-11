@@ -4,7 +4,7 @@ import threading
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Token do Bot Administrativo
-BOT_TOKEN = "7826678584:AAFqBMDRw7SP1BJ3H63sIoVVkk1sJ16mfpU"
+BOT_TOKEN = "8114721048:AAEyKLdO5AW_B8Elk981JFF9GvZJOGECzA4"
 BOT_TOKEN_COMPRAS = "7858924435:AAE0H8X-DhE_LkOQbk2rj4M2Em-JQVyZ47U"  # Token do bot de compras
 
 # Criando os bots
